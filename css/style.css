@@ -1,0 +1,55 @@
+body {
+  background-size: cover;
+  margin: auto;
+}
+
+h2 {
+  color:blue;
+  letter-spacing: 3px;
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  background-color: rgb(222, 222, 224);
+  padding:40px;
+  border-style:solid;
+}
+h1{
+  margin-left:15%;
+  margin-top:9%;
+  letter-spacing:16%;
+  line-height: 250%;
+  font-family: 'Cinzel Decorative', cursive;
+  color:blue;
+}
+img{
+  margin-left:50%;
+  margin-top:-24%;
+  background-size:cover;
+  cursor: pointer;
+}
+img:hover{
+transform: scale(1.1);
+transition-duration: 2s;
+}
+.one{
+  color: blue;
+  font-size:400%;
+  margin-left:15%;
+  margin-top:15%;
+  cursor:pointer;
+}
+.two{
+  color: blue;
+  font-size:400%;
+  margin-left:50%;
+  margin-top:-6%;
+  cursor:pointer;
+}
+.there{
+  color: blue;
+  font-size:400%;
+  margin-left:80%;
+  margin-top:-6%;
+  cursor:pointer;
+}
